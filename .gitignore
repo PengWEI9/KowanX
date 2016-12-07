@@ -10,8 +10,8 @@
 /target/
 
 # scripts for getting and packing source packages
-/tools/mkpkg/*
-!/tools/mkpkg/mkpkg_*
+#/tools/mkpkg/*
+#!/tools/mkpkg/mkpkg_*
 
 # mkpkg temp
 mkpkg-temp
@@ -20,7 +20,7 @@ mkpkg-temp
 /.work/
 
 # symlinks...
-/sources
+#/sources
 /.work
 
 # ccache
