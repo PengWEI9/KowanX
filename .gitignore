@@ -3,7 +3,7 @@
 /.fakeroot.*
 
 # automatically downloaded source files
-/sources/
+#/sources/
 /.stamps/
 
 # prebuild target binarys to provide
